@@ -1,0 +1,96 @@
+/*skeleton*/
+body {
+    background-image: url(MaterialeEsercizioLim/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%
+}
+
+.contenitore {
+    width: 1000px;
+    height: 650px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;  
+    margin-top: 4%;
+    border-radius: 3%;
+}
+
+/*header*/
+
+header {
+    text-align: center;
+    color: #00ff00;
+}
+
+img {
+    margin-top: 7%;
+}
+
+h1 {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    margin-top: 9px;
+}
+
+header > span {
+    display: inline-block;
+    width: 800px;
+    height: 40px;
+    background-color: #00ff00;
+}
+
+/*main*/
+
+.scritte {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    margin-left: 0.5%;
+    color: white;
+}
+
+input {
+    margin-left: 10%;
+    margin-top: 3%;
+    color: white;
+    border: white;
+   
+}
+
+p {
+    display: inline-block;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 10%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+}
+
+.riga_1 {
+    width: 300px;
+    height: 25px;
+    background-color: #f0ba2a;
+    border-radius: 10px;
+    margin-left: 10%;
+}
+
+.riga_2 {
+    width: 500px;
+    height: 25px;
+    background-color: #00ff00;
+    border-radius: 10px;
+    margin-left: 10%;
+}
+
+.riga_3 {
+    width: 150px;
+    height: 25px;
+    background-color: red;
+    border-radius: 10px;
+    margin-left: 10%;
+}
